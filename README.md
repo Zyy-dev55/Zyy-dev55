@@ -1,4 +1,4 @@
-# 你好，我是 1757444521-create 👋
+# 你好，我是 Zyy-dev55 👋
 
 做全栈开发，喜欢把「能用」做成「好用」——单文件能跑的东西就不让人装环境，判断逻辑能写死规则就不上模型。
 
@@ -6,11 +6,11 @@
 
 ---
 
-## 🎮 [破山门 · 宗门模拟器](https://github.com/1757444521-create/pomen-sect-simulator)
+## 🎮 [破山门 · 宗门模拟器](https://github.com/Zyy-dev55/pomen-sect-simulator)
 
 > 单文件修仙宗门经营游戏。招弟子、盖房子、派差事、撞事件，挂机涨修为，最后收山看结局。
 
-**▶️ [立即在线试玩](https://1757444521-create.github.io/pomen-sect-simulator/)**（推荐，手机竖屏观感更好）
+**▶️ [立即在线试玩](https://Zyy-dev55.github.io/pomen-sect-simulator/)**（推荐，手机竖屏观感更好）
 
 - 一份零 DOM 的纯逻辑内核，同时驱动微信小程序与单文件 HTML 两套 UI
 - 整个游戏压进一个约 220 KB 的 HTML，CSS/JS 内联、图形全用 SVG/Canvas 现画，零外部资源
@@ -21,11 +21,11 @@
 
 ---
 
-## ⚡ [电工电路仿真调试平台](https://github.com/1757444521-create/circuit-lab)
+## ⚡ [电工电路仿真调试平台](https://github.com/Zyy-dev55/circuit-lab)
 
 > 单文件电工电路仿真器，操作方式类似 eNSP：元件库点选、拖拽布线、端口对端口连线、实时通电仿真与故障诊断。
 
-**▶️ [立即在线试玩](https://1757444521-create.github.io/circuit-lab/)**
+**▶️ [立即在线试玩](https://Zyy-dev55.github.io/circuit-lab/)**
 
 - 按电工考证实训板建模：4P/2P/1P 断路器、接触器、热继电器、漏保、SPD、电能表……端口全部按实物端子数建模
 - 导线按 L/L1/L2/L3/N/PE 六类线色 + 四种线径，线色错标会触发「疑似接错」告警
@@ -36,7 +36,7 @@
 
 ---
 
-## 🛒 [悦家生活 · 生活用品电商系统](https://github.com/1757444521-create/life-shop)
+## 🛒 [悦家生活 · 生活用品电商系统](https://github.com/Zyy-dev55/life-shop)
 
 > 多店铺电商系统，覆盖商城前台 / 个人中心 / 商家后台 / 平台管理后台四块。
 
@@ -50,7 +50,7 @@
 
 ---
 
-## 🤖 [BOSS 直聘 · 批量投递助手](https://github.com/1757444521-create/boss-auto-apply)
+## 🤖 [BOSS 直聘 · 批量投递助手](https://github.com/Zyy-dev55/boss-auto-apply)
 
 > Chrome MV3 扩展，把「翻岗位→读 JD→判断→投递→记账」自动化：硬条件先筛，条件评分，可选大模型语义判断。
 
